@@ -39,12 +39,12 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 | Aleatória     | 100, 1000, 10000, 100000     |
 
 **Geração de métricas:**  
-`metrics_insercao.csv`:
+`metricas_insercao.csv`:
 - Splits realizados
 - Altura final da árvore
 - Quantidade total de nós  
 
-`metrics_remocao.csv`:
+`metricas_remocao.csv`:
 - Empréstimos e Merges realizados
 - Altura após remoção
 - Nós restantes
@@ -55,8 +55,8 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 ## 📊 Métricas Registradas
 | Arquivo              | Métricas                          |
 |----------------------|-----------------------------------|
-| `metrics_insercao.csv` | Splits, Altura, Quantidade de blocos |
-| `metrics_remocao.csv`  | Borrows, Merges, Altura, Quantidade de blocos |
+| `metricas_insercao.csv` | Splits, Altura, Quantidade de blocos |
+| `metricas_remocao.csv`  | Borrows, Merges, Altura, Quantidade de blocos |
 
 ---
 
