@@ -57,6 +57,8 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 |----------------------|-----------------------------------|
 | `metricas_insercao.csv` | Splits, Altura, Quantidade de blocos |
 | `metricas_remocao.csv`  | Rotações, Merges, Altura, Quantidade de blocos |
+| `tabela_simp_ins.csv` | Splits, Altura, Quantidade de blocos (Média para os testes aleatórios) |
+| `tabela_simp_rem.csv` | Rotações, Merges, Altura, Quantidade de blocos (Média para os testes aleatórios) |
 
 ---
 
