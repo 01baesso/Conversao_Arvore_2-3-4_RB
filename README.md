@@ -45,7 +45,7 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 - Quantidade total de nós  
 
 `metricas_remocao.csv`:
-- Empréstimos e Merges realizados
+- Rotações e Merges realizados
 - Altura após remoção
 - Nós restantes
 - **Porcentagens testadas:** 10%, 20%, 35%, 50% dos dados removidos aleatoriamente
@@ -56,7 +56,7 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 | Arquivo              | Métricas                          |
 |----------------------|-----------------------------------|
 | `metricas_insercao.csv` | Splits, Altura, Quantidade de blocos |
-| `metricas_remocao.csv`  | Borrows, Merges, Altura, Quantidade de blocos |
+| `metricas_remocao.csv`  | Rotações, Merges, Altura, Quantidade de blocos |
 
 ---
 
