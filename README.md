@@ -67,6 +67,7 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 ---
 
 ## 📚 Referências
-1. DigiPen CS280 – Mapping 2-3-4 to RB Trees  
-2. Stack Overflow: Converting 2-3-4 to Red-Black  
-3. NCKU Slides: 2-3-4 vs RB Tree  
+1. [**Mapeamento 2-3-4 → RB** - DigiPen CS280](https://pontus.digipen.edu/~mmead/www/Courses/CS280/Trees-Mapping2-3-4IntoRB.html)  
+2. [**Conversão 2-3-4 → RB** - Stack Overflow](https://stackoverflow.com/questions/35955246/converting-a-2-3-4-tree-into-a-red-black-tree)  
+3. [**Slides NCKU: 2-3-4 vs RB Trees**](https://smile.ee.ncku.edu.tw/old/Links/MTable/Course/DataStructure/2-3,2-3-4&red-blackTree_952.pdf)  
+4. [**Remoção em Árvores-B** - Programiz](https://www.programiz.com/dsa/deletion-from-a-b-tree)
