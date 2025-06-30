@@ -55,8 +55,8 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 ## 📊 Métricas Registradas
 | Arquivo              | Métricas                          |
 |----------------------|-----------------------------------|
-| `metrics_insercao.csv` | Splits, altura, quantidade de nós |
-| `metrics_remocao.csv`  | Borrows, merges, altura, nós      |
+| `metrics_insercao.csv` | Splits, Altura, Quantidade de blocos |
+| `metrics_remocao.csv`  | Borrows, Merges, Altura, Quantidade de blocos |
 
 ---
 
