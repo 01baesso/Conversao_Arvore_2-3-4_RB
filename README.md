@@ -6,7 +6,7 @@
 **Ano:** 2025  
 
 ## 🧠 Objetivo
-Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, remoção, busca, impressão) e sua conversão exata para uma árvore Rubro-Negra (RB), que seja estruturalmente equivalente. O projeto também inclui a execução de testes de desempenho com métricas como número de splits, altura da árvore e quantidade de nós.
+Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, remoção, busca, impressão) e sua conversão exata para uma árvore Rubro-Negra (RB), que seja estruturalmente válida. O projeto também inclui a execução de testes de desempenho com métricas como número de splits, altura da árvore e quantidade de nós.
 
 ---
 
@@ -17,7 +17,7 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 - Remoção de elementos  
 - Impressão da árvore por camadas  
 - Contagem de splits, merges e rotações  
-- Conversão direta para Rubro-Negra (sem balanceamentos extras)  
+- Conversão direta para Rubro-Negra
 
 ### 🌑 Árvore Rubro-Negra
 - Geração a partir da 2-3-4  
@@ -45,7 +45,7 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 - Quantidade total de nós  
 
 `metrics_remocao.csv`:
-- Borrows e Merges realizados
+- Empréstimos e Merges realizados
 - Altura após remoção
 - Nós restantes
 - **Porcentagens testadas:** 10%, 20%, 35%, 50% dos dados removidos aleatoriamente
@@ -61,8 +61,8 @@ Implementar uma árvore 2-3-4 com suporte às operações básicas (inserção, 
 ---
 
 ## 👥 Autores
-- [Lucas Baesso](https://github.com/lucasbaesso)  
-- [Nomes dos colegas do grupo se houver]
+- [Lucas Alexandre dos Santos Baesso](https://github.com/01baesso)  
+- [Rafael Fernando Aurélio Ribeiro](https>//github.com/rafaelfernando28)
 
 ---
 
