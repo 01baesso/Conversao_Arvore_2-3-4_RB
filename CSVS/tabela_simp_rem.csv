@@ -1,0 +1,6 @@
+,Quantidade de rotações,,,Quantidade de merges,,,Altura da árvore,,,Total de blocos ocupados,,
+Tamanho da amostra para remoção (Árvore com 10 mil elementos),Elementos em ordem crescente,Elementos em ordem descrescente,Elementos em ordem aleatória,Elementos em ordem crescente,Elementos em ordem descrescente,Elementos em ordem aleatória,Elementos em ordem crescente,Elementos em ordem descrescente,Elementos em ordem aleatória,Elementos em ordem crescente,Elementos em ordem descrescente,Elementos em ordem aleatória
+10%,1397,1473,"1269,3",2664,2679,"483,2",9,9,9,7324,7309,"5198,5"
+20%,2698,2611,"2449,7",3966,4003,"802,4",9,9,"8,8",6022,5985,"4880,1"
+35%,4377,4348,"3978,3",5346,5362,"1452,9",9,9,"8,2",4642,4626,4229
+50%,6224,6100,"5431,7",6469,6524,"2281,7",8,8,8,3518,3463,3400
