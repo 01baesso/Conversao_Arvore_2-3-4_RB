@@ -178,6 +178,9 @@ int main () {
         menu234();
         scanf("%d", &opcao234);
     }
+    
+    liberaArvore234(raiz234);
+    fclose(arq);
 
     return 0;
 }
