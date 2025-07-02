@@ -1,0 +1,6 @@
+,Quantidade de split,,,Altura da árvore,,,Total de blocos ocupados,,
+Tamanho da amostra para inserção,Elementos em ordem crescente,Elementos em ordem descrescente,Elementos em ordem aleatória,Elementos em ordem crescente,Elementos em ordem descrescente,Elementos em ordem aleatória,Elementos em ordem crescente,Elementos em ordem descrescente,Elementos em ordem aleatória
+100,90,90,51,6,6,5,96,96,56
+1000,983,983,"564,3",9,9,"7,9",992,992,"572,2"
+10000,9979,9979,"5698,4",13,13,"10,2",9992,9992,"5708,6"
+100000,99974,99974,"56958,9",16,16,13,99990,99990,"56971,9"
